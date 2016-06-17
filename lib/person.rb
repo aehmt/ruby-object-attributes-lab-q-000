@@ -26,5 +26,3 @@ beyonce.instance_variable_get(:@name)
 beyonce.instance_variable_set(:@job, "Singer")
 beyonce.instance_variable_get(:@job)
 
-puts beyonce.name
-puts beyonce.job
